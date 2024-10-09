@@ -2,4 +2,4 @@
 stop.at = 100
 board.size = 30
 count.of.agents = 765
-threshold = 0.8
+threshold = 0.3
